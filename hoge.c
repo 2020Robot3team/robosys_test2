@@ -2,5 +2,7 @@
 
 int main() {
 printf("hoge");
+
+printf("hoge");
 }
 
